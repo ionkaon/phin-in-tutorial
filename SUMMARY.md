@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Initial page](README.md)
+- [宁波话吴拼教程](README.md)
 - [声母](声母/声母.md)
     - [声母表](声母/声母表.md)
     - [清浊音](声母/清浊音.md)
