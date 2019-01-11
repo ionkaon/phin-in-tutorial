@@ -8,7 +8,7 @@
 
 例字：
 
-紫tsy3，主tsyu3，租tsu1，债tsa1，早tsau3，渣tso1，灾tse1，盏tsae3，砖tsoe1，追tsei1，做tsou5，走tseu3，争tsan1，装tsaon1，筝tsen1，准tsyun3，钟tson1，扎tsaq7，粥tsoq7，拙tsyuq7。
+紫tsy3，主tsyu3，租tsu1，债tsa5，早tsau3，渣tso1，灾tse1，盏tsae3，砖tsoe1，追tsei1，做tsou5，走tseu3，争tsan1，装tsaon1，筝tsen1，准tsyun3，钟tson1，扎tsaq7，粥tsoq7，拙tsyuq7。
 
 ### tsh
 
