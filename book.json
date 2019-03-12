@@ -1,0 +1,13 @@
+{
+    "plugins": [
+        "page-footer-ex"
+    ],
+    "pluginsConfig": {
+        "page-footer-ex": {
+            "copyright": "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)",
+            "markdown": true,
+            "update_label": "<i>updated</i>",
+            "update_format": "YYYY-MM-DD"
+        }
+    }
+}
