@@ -4,58 +4,58 @@
 
 声母p是清不送气双唇塞音，IPA（国际音标）：\[p\]。
 
-宁波话中声母p的发音与普通话中的声母b相同。
+宁波话中声母 p 的发音与普通话中的声母 b 相同。
 
 例字：
 
-边pi1，布pu5，拜pa5，包pau1，疤po1，表piau3，班pae1，杯pei1，玻pou1，绷pan1，帮paon1，搬pun1，本pen3，冰pin1，八paq7，北poq7，笔piq7。
+边 pi1，布 pu5，拜 pa5，包 pau1，疤 po1，表 piau3，班 pae1，杯 pei1，玻 pou1，绷 pan1，帮 paon1，搬 pun1，本 pen3，冰 pin1，八 paq7，北 poq7，笔 piq7。
 
 ### ph
 
 声母ph是清送气双唇塞音，IPA：\[pʰ\]。
 
-宁波话中声母ph的发音与普通话中的声母p相同。
+宁波话中声母 ph 的发音与普通话中的声母 p 相同。
 
 例字：
 
-偏phi1，普phu3，派pha5，抛phau1，怕pho5，飘phiau1，攀phae1，坯phei1，坡phou1，乓phan1，胖phaon5，潘phun1，喷phen1，拼phin1，捧phon3，拍phaq7，扑phoq7，劈phiq7。
+偏 phi1，普 phu3，派 pha5，抛 phau1，怕 pho5，飘 phiau1，攀 phae1，坯 phei1，坡 phou1，乓 phan1，胖 phaon5，潘 phun1，喷 phen1，拼 phin1，捧 phon3，拍 phaq7，扑 phoq7，劈 phiq7。
 
 ### b
 
 声母b是浊双唇塞音，IPA：\[b\]。
 
-宁波话中声母b是与p相同发音部位的浊音，发音与英语中的辅音/b/类似。普通话中没有与它发音相同的声母。注意不要与声母p混淆。
+宁波话中声母 b 是与 p 相同发音部位的浊音，发音与英语中的辅音 /b/ 类似。普通话中没有与它发音相同的声母。注意不要与声母 p 混淆。
 
 例字：
 
-皮bi2，菩bu2，排ba2，抱bau6，爬bo2，瓢biau2，办bae6，备bei6，婆bou2，朋ban2，旁baon2，盘bun2，盆ben2，病bin6，塳bon2，白baq8，薄boq8，别biq8。
+皮 bi2，菩 bu2，排 ba2，抱 bau6，爬 bo2，瓢 biau2，办 bae6，备 bei6，婆 bou2，朋 ban2，旁 baon2，盘 bun2，盆 ben2，病 bin6，塳 bon2，白 baq8，薄 boq8，别 biq8。
 
 ### m
 
 声母m是双唇鼻音，IPA：\[m\]。
 
-宁波话中声母m的发音与普通话中的声母m相同。另外它也可以作为一个自成音节的韵母，这点会在韵母章节介绍。
+宁波话中声母m的发音与普通话中的声母 m 相同。另外它也可以作为一个自成音节的韵母，这点会在韵母章节介绍。
 
 例字：
 
-棉mi2，毛mau2，麻mo2，秒miau6，慢mae6，梅mei2，幕mou6，眸meu2，man6，忙maon2，满mun6，门men2，命min6，懵mon2，麦maq8，木moq8，灭miq8。
+棉 mi2，毛 mau2，麻 mo2，秒 miau6，慢 mae6，梅 mei2，幕 mou6，眸 meu2，m an6，忙 maon2，满 mun6，门 men2，命 min6，懵 mon2，麦 maq8，木 moq8，灭 miq8。
 
 ### f
 
 声母f是清唇齿擦音，IPA：\[f\]。
 
-宁波话中声母f的发音与普通话中的声母f相同。
+宁波话中声母 f 的发音与普通话中的声母 f 相同。
 
 例字：
 
-飞fi1，富fu5，反fae3，否feu3，方faon1，芬fen1，封fon1，发faq7，福foq7。
+飞 fi1，富 fu5，反 fae3，否 feu3，方 faon1，芬 fen1，封 fon1，发 faq7，福 foq7。
 
 ### v
 
 声母v是浊唇齿擦音，IPA：\[v\]。
 
-宁波话中声母v是与f相同发音部位的浊音，发音与英语中的辅音/v/相同。
+宁波话中声母v是与f相同发音部位的浊音，发音与英语中的辅音 /v/ 相同。
 
 例字：
 
-维vi2，符vu2，饭vae6，房vaon2，文ven2，奉von6，罚vaq8，服voq8。
+维 vi2，符 vu2，饭 vae6，房 vaon2，文 ven2，奉 von6，罚 vaq8，服 voq8。

@@ -2,50 +2,50 @@
 
 ### ts
 
-声母ts是清不送气齿龈塞擦音，IPA：\[ts\]。
+声母 ts  是清不送气齿龈塞擦音，IPA：\[ts\]。
 
-宁波话中声母ts的发音与普通话中的声母z相同。
+宁波话中声母 ts  的发音与普通话中的声母 z  相同。
 
 例字：
 
-紫tsy3，主tsyu3，租tsu1，债tsa5，早tsau3，渣tso1，灾tse1，盏tsae3，砖tsoe1，追tsei1，做tsou5，走tseu3，争tsan1，装tsaon1，筝tsen1，准tsyun3，钟tson1，扎tsaq7，粥tsoq7，拙tsyuq7。
+紫 tsy3，主 tsyu3，租 tsu1，债 tsa5，早 tsau3，渣 tso1，灾 tse1，盏 tsae3，砖 tsoe1，追 tsei1，做 tsou5，走 tseu3，争 tsan1，装 tsaon1，筝 tsen1，准 tsyun3，钟 tson1，扎 tsaq7，粥 tsoq7，拙 tsyuq7。
 
 ### tsh
 
-声母tsh是清送气齿龈塞擦音，IPA：\[tsʰ\]。
+声母 tsh  是清送气齿龈塞擦音，IPA：\[tsʰ\]。
 
-宁波话中声母tsh的发音与普通话中的声母c相同。
+宁波话中声母 tsh  的发音与普通话中的声母 c  相同。
 
 例字：
 
-刺tshy5，取tshyu3，粗tshu1，蔡tsha5，草tshau3，车tsho1，猜tshe1，餐tshae5，穿tshoe1，摧tshei1，错tshou5，凑tsheu5，撑tshan1，窗tshaon1，衬tshen5，春tshyun1，葱tshon1，尺tshaq7，触tshyuq7，出tshyuq7。
+刺 tshy5，取 tshyu3，粗 tshu1，蔡 tsha5，草 tshau3，车 tsho1，猜 tshe1，餐 tshae5，穿 tshoe1，摧 tshei1，错 tshou5，凑 tsheu5，撑 tshan1，窗 tshaon1，衬 tshen5，春 tshyun1，葱 tshon1，尺 tshaq7，触 tshyuq7，出 tshyuq7。
 
 ### dz
 
-声母dz是浊齿龈塞擦音，IPA：\[dz\]。
+声母 dz 是浊齿龈塞擦音，IPA：\[dz\]。
 
-宁波话中声母dz是与ts相同发音部位的浊音，发音与英语单词birds中的ds发音类似。普通话中没有与它发音相同的声母。注意不要与声母ts混淆。
+宁波话中声母 dz 是与 ts 相同发音部位的浊音，发音与英语单词 birds 中的 ds 发音类似。普通话中没有与它发音相同的声母。注意不要与声母 ts 混淆。
 
 例字：
 
-慈dzy2，除dzyu2，助dzu2，曹dzau2，茶dzo2，才dze2，赚dzae6，全dzoe2，锃dzan6，撞dzaon6，存dzen2，虫dzon2，择dzaq8，逐dzoq8，绝dzyuq8。
+慈 dzy2，除 dzyu2，助 dzu2，曹 dzau2，茶 dzo2，才 dze2，赚 dzae6，全 dzoe2，锃 dzan6，撞 dzaon6，存 dzen2，虫 dzon2，择 dzaq8，逐 dzoq8，绝 dzyuq8。
 
 ### s
 
-声母s是清齿龈擦音，IPA：\[s\]。
+声母 s 是清齿龈擦音，IPA：\[s\]。
 
-宁波话中声母s的发音与普通话中的声母s相同。
+宁波话中声母 s 的发音与普通话中的声母 s 相同。
 
 例字：
 
-四sy5，书syu1，苏su1，晒sa5，扫sau3，纱so1，腮se1，山sae1，酸soe1，碎sei5，锁sou3，瘦seu5，甥san1，双saon1，孙sen1，笋syun3，松son1，煞saq7，速soq7，刷syuq7。
+四 sy5，书 syu1，苏 su1，晒 sa5，扫 sau3，纱 so1，腮 se1，山 sae1，酸 soe1，碎 sei5，锁 sou3，瘦 seu5，甥 san1，双 saon1，孙 sen1，笋 syun3，松 son1，煞 saq7，速 soq7，刷 syuq7。
 
 ### z
 
-声母z是浊齿龈擦音，IPA：\[z\]。
+声母 z 是浊齿龈擦音，IPA：\[z\]。
 
-宁波话中声母z是与s相同发音部位的浊音，发音与英语中的辅音/z/相同。
+宁波话中声母 z 是与 s 相同发音部位的浊音，发音与英语中的辅音 /z/ 相同。
 
 例字：
 
-字zy6，树zyu6，柴za2，槽zau2，惹zo6，裁ze2，僝zae6，船zoe2，随zei2，坐zou6，愁zeu2，上zaon6，层zen2，纯zyun2，闸zaq8，熟zoq8，十zyuq8。
+字 zy6，树 zyu6，柴 za2，槽 zau2，惹 zo6，裁 ze2，僝 zae6，船 zoe2，随 zei2，坐 zou6，愁 zeu2，上 zaon6，层 zen2，纯 zyun2，闸 zaq8，熟 zoq8，十 zyuq8。

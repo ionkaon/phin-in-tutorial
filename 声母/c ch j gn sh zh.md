@@ -2,62 +2,62 @@
 
 ### c
 
-声母c是清不送气龈腭塞擦音，IPA：\[tɕ\]。
+声母 c 是清不送气龈腭塞擦音，IPA：\[tɕ\]。
 
-宁波话中声母c的发音与普通话中的声母j相同。
+宁波话中声母 c 的发音与普通话中的声母 j 相同。
 
 例字：
 
-记ci5，句ciu5，姐cia3，照ciau5，九cieu3，姜cian1，针cin1，君ciun1，炯cion3，脚ciaq7，结ciq7，菊ciuq7。
+记 ci5，句 ciu5，姐 cia3，照 ciau5，九 cieu3，姜 cian1，针 cin1，君 ciun1，炯 cion3，脚 ciaq7，结 ciq7，菊 ciuq7。
 
 ### ch
 
-声母ch是清送气龈腭塞擦音，IPA：\[tɕʰ\]。
+声母 ch 是清送气龈腭塞擦音，IPA：\[tɕʰ\]。
 
-宁波话中声母ch的发音与普通话中的声母q相同。
+宁波话中声母 ch 的发音与普通话中的声母 q 相同。
 
 例字：
 
-气chi5，区chiu1，笡chia3，巧chiau3，臭chieu5，厂chian3，亲chin1，菌chiun5，鹊chiaq7，吃chioq7，七chiq7，缺chiuq7。
+气 chi5，区 chiu1，笡 chia3，巧 chiau3，臭 chieu5，厂 chian3，亲 chin1，菌 chiun5，鹊 chiaq7，吃 chioq7，七 chiq7，缺 chiuq7。
 
 ### j
 
-声母j是浊龈腭塞擦音，IPA：\[dʑ\]。
+声母 j 是浊龈腭塞擦音，IPA：\[dʑ\]。
 
-宁波话中声母j是与c相同发音部位的浊音，普通话和英语中都没有与它相同的辅音。注意不要与声母c混淆。
+宁波话中声母 j 是与 c 相同发音部位的浊音，普通话和英语中都没有与它相同的辅音。注意不要与声母 c 混淆。
 
 例字：
 
-棋ji2，拳jiu6，茄jia2，潮jiau2，球jieu2，丈jian6，城jin2，裙jiun2，穷jion2，直jiq8，局jiuq8。
+棋 ji2，拳 jiu6，茄 jia2，潮 jiau2，球 jieu2，丈 jian6，城 jin2，裙 jiun2，穷 jion2，直 jiq8，局 jiuq8。
 
 ### gn
 
-声母gn是龈腭鼻音，IPA：\[ȵ\]。
+声母 gn 是龈腭鼻音，IPA：\[ȵ\]。
 
-宁波话中声母gn是与c相同发音部位的鼻音，与普通话“泥”字的声母发音相似。
+宁波话中声母 gn 是与 c 相同发音部位的鼻音，与普通话“泥”字的声母发音相似。
 
-读者其实可以不必在意声母gn和n的区别，因为在宁波话中两者呈互补分布。声母gn只能接韵母i或i介音，声母n不能接韵母i和i介音。在输入法中gn也可以拼作n。
+读者其实可以不必在意声母 gn 和 n 的区别，因为在宁波话中两者呈互补分布。声母 gn 只能接韵母 i 或 i 介音，声母 n 不能接韵母 i 和 i 介音。在输入法中 gn 也可以拼作 n 。
 
 例字：
 
-泥gni2，女gniu2，绕gniau6，钮gnieu6，娘gnian2，鄞gnin2，绒gnion2，捏gniaq8，玉gnioq8，热gniq8。
+泥 gni2，女 gniu2，绕 gniau6，钮 gnieu6，娘 gnian2，鄞 gnin2，绒 gnion2，捏 gniaq8，玉 gnioq8，热 gniq8。
 
 ### sh
 
-声母sh是清龈腭擦音，IPA：\[ɕ\]。
+声母 sh 是清龈腭擦音，IPA：\[ɕ\]。
 
-宁波话中声母s的发音与普通话中的声母x相同。
+宁波话中声母 s 的发音与普通话中的声母 x 相同。
 
 例字：
 
-西shi1，虚shiu1，写shia3，小shiau3，修shieu1，向shian5，心shin1，熏shiun1，凶shion1，削shiaq7，吸shiq7，血shiuq7。
+西 shi1，虚 shiu1，写 shia3，小 shiau3，修 shieu1，向 shian5，心 shin1，熏 shiun1，凶 shion1，削 shiaq7，吸 shiq7，血 shiuq7。
 
 ### zh
 
-声母zh是浊龈腭擦音，IPA：\[ʑ\]。
+声母 zh 是浊龈腭擦音，IPA：\[ʑ\]。
 
-宁波话中声母zh是与sh相同发音部位的浊音，普通话和英语中都没有与它相同的辅音。
+宁波话中声母 zh 是与 sh 相同发音部位的浊音，普通话和英语中都没有与它相同的辅音。
 
 例字：
 
-徐zhi2，谢zhia6，绍zhiau6，受zhieu6，墙zhian2，寻zhin2，嚼zhiaq8，舌zhiq8。
+徐 zhi2，谢 zhia6，绍 zhiau6，受 zhieu6，墙 zhian2，寻 zhin2，嚼 zhiaq8，舌 zhiq8。
