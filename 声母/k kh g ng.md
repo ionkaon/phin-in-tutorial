@@ -28,7 +28,7 @@
 
 例字：
 
-绞 gau6，谏 gae6，掼 guae6，葵 guei2，鲠 gan6，戆 gaon6，狂 guaon2，艮 gen6，共 gon6，轧 gaq8。
+绞 gau6，掼 guae6，鲠 gan6，戆 gaon6，狂 guaon2，艮 gen6，共 gon6，轧 gaq8。
 
 ### ng
 
