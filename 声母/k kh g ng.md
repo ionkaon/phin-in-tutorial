@@ -8,7 +8,7 @@
 
 例字：
 
-赶 ki3，姑 ku1，街 ka1，怪 kua5，高 kau1，嫁 ko5，瓜 kuo1，改 ke3，减 kae3，关 kuae1，规 kuei1，歌 kou1，狗 keu3，羹 kan1，挭 kuan1，缸 kaon1，广 kuaon3，管 kun3，跟 ken1，滚 kuen3，工 kon1，隔 kaq7，骨 kuaq7，谷 koq7。
+赶 ki3，姑 ku1，街 ka1，怪 kua5，高 kau1，嫁 ko5，瓜 kuo1，改 ke3，减 kae3，关 kuae1，规 kuei1，歌 kou1，狗 keu3，羹 kan1，缸 kaon1，广 kuaon3，管 kun3，跟 ken1，滚 kuen3，工 kon1，隔 kaq7，骨 kuaq7，谷 koq7。
 
 ### kh
 
@@ -18,7 +18,7 @@
 
 例字：
 
-看 khi5，苦 khu3，卡 kha3，快 khua5，考 khau3，抲 kho5，夸 khuo1，开 khe1，铅 khae1，盔 khuei1，棵 khou1，口 kheu1，坑 khan1，康 khaon1，筐 khuaon1，宽 khun1，啃 khen3，困 khuen5，恐 khon3，客 khaq7，阔 khuaq7，哭 khoq7。
+看 khi5，苦 khu3，卡 kha3，快 khua5，考 khau3，跨 khuo5，开 khe1，铅 khae1，盔 khuei1，棵 khou1，口 kheu1，坑 khan1，康 khaon1，筐 khuaon1，宽 khun1，啃 khen3，困 khuen5，恐 khon3，客 khaq7，阔 khuaq7，哭 khoq7。
 
 ### g
 

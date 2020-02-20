@@ -28,7 +28,7 @@
 
 例字：
 
-棋 ji2，拳 jiu6，茄 jia2，潮 jiau2，球 jieu2，丈 jian6，城 jin2，裙 jiun2，穷 jion2，直 jiq8，局 jiuq8。
+棋 ji2，拳 jiu6，潮 jiau2，球 jieu2，丈 jian6，城 jin2，裙 jiun2，穷 jion2，直 jiq8，局 jiuq8。
 
 ### gn
 

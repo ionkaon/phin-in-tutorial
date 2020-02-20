@@ -18,7 +18,7 @@
 
 例字：
 
-天 thi1，土 thu3，太 tha5，套 thau5，跳 thiau5，胎 the1，摊 thae1，彖 thoe1，腿 thei3，拖 thou1，偷 theu1，汤 thaon1，吞 then1，听 thin1，痛 thon5，塔 thaq7，托 thoq7，踢 thiq7。
+天 thi1，土 thu3，太 tha5，套 thau5，跳 thiau5，胎 the1，摊 thae1，腿 thei3，拖 thou1，偷 theu1，汤 thaon1，吞 then1，听 thin1，痛 thon5，塔 thaq7，托 thoq7，踢 thiq7。
 
 ### d
 
