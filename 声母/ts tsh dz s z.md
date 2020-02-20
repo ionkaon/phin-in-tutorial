@@ -18,7 +18,7 @@
 
 例字：
 
-刺 tshy5，取 tshyu3，粗 tshu1，蔡 tsha5，草 tshau3，车 tsho1，猜 tshe1，餐 tshae5，穿 tshoe1，摧 tshei1，错 tshou5，凑 tsheu5，撑 tshan1，窗 tshaon1，衬 tshen5，春 tshyun1，葱 tshon1，尺 tshaq7，触 tshyuq7，出 tshyuq7。
+刺 tshy5，取 tshyu3，粗 tshu1，蔡 tsha5，草 tshau3，车 tsho1，猜 tshe1，餐 tshae5，穿 tshoe1，摧 tshei1，错 tshou5，凑 tsheu5，撑 tshan1，窗 tshaon1，衬 tshen5，春 tshyun1，葱 tshon1，尺 tshaq7，触 tshoq7，出 tshyuq7。
 
 ### dz
 
