@@ -6,4 +6,4 @@
 
 本教程使用的吴语拼音，最初由 [吴语协会](http://wu-chinese.com/romanization/) 创制，后经 [吴语学堂](https://www.wugniu.com/) 修改。这套吴拼使用了除 x 以外的其余 25 个拉丁字母，不使用任何附加符号，可以很方便地用键盘上输入。也有相应的 [输入法](https://github.com/NGLI/rime-wugniu_gninpou) 可供使用。
 
-本教程的例字若无特殊说明均为宁波城区口音。宁波城区口音指原海曙，江东，江北三区所辖的宁波市中心城区的口音。其他地区的口音和内部城区可能有一些区别，具体可以参照教程中 [地区差异](https://ionkaon.github.io/phin-in-tutorial/内部差异/地区差异.html) 一节。
+本教程的例字若无特殊说明均为宁波城区口音。宁波城区口音指原海曙，江东，江北三区所辖的宁波市中心城区的口音。其他地区的口音和宁波城区可能有一些区别，具体可以参照教程中 [地区差异](https://ionkaon.github.io/phin-in-tutorial/内部差异/地区差异.html) 一节。
