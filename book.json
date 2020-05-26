@@ -4,7 +4,7 @@
     ],
     "pluginsConfig": {
         "page-footer-ex": {
-            "copyright": "[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)",
+            "copyright": "[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)",
             "markdown": true,
             "update_label": "<i>updated</i>",
             "update_format": "YYYY-MM-DD"
