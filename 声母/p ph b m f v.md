@@ -38,7 +38,7 @@
 
 例字：
 
-棉 mi2，毛 mau2，麻 mo2，秒 miau6，慢 mae6，梅 mei2，幕 mou6，眸 meu2，m an6，忙 maon2，满 mun6，门 men2，命 min6，懵 mon2，麦 maq8，木 moq8，灭 miq8。
+棉 mi2，毛 mau2，麻 mo2，秒 miau6，慢 mae6，梅 mei2，幕 mou6，眸 meu2，孟 man6，忙 maon2，满 mun6，门 men2，命 min6，懵 mon2，麦 maq8，木 moq8，灭 miq8。
 
 ### f
 
