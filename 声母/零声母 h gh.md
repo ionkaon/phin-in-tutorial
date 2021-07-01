@@ -32,4 +32,4 @@
 
 例字：
 
-盐 yi2，胡 wu2，圆 yu2，鞋 gha2，野 ya6，毫 ghau2，下 gho6，摇 yau2，话 wo6，害 ghe6，馅 ghae6，环 wae2，油 yeu2，汗 ghei6，回 wei2，河 ghou2，猴 gheu2，洋 yan2，横 wan2，航 ghaon6，黄 waon2，完 wun2，恨 ghen6，形 yin2，浑 wen2，云 yun2，红 ghon2，用 yon6，盒 ghaq8，药 yaq8，滑 waq8，或 ghoq，页 yiq8，越 yuq8。
+盐 yi2，胡 wu2，圆 yu2，鞋 gha2，野 ya6，毫 ghau2，下 gho6，摇 yau2，话 wo6，害 ghe6，馅 ghae6，环 wae2，油 yeu2，汗 ghei6，回 wei2，河 ghou2，猴 gheu2，洋 yan2，横 wan2，航 ghaon6，黄 waon2，完 wun2，恨 ghen6，形 yin2，浑 wen2，云 yun2，红 ghon2，用 yon6，盒 ghaq8，药 yaq8，滑 waq8，或 ghoq8，页 yiq8，越 yuq8。
