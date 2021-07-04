@@ -10,7 +10,7 @@
 
 例字：
 
-衣 i1，乌 u1，鸳 iu1，啊 a1，亚 ia5，娃 ua1，袄 au3，哑 o3，要 iau5，蛙 uo1，爱 e5，晏 ae5，弯 uae1，优 ieu1，安 ei1，威 uei1，窝 ou1，欧 eu1，央 ian1，肮 aon1，汪 uaon1，碗 un3，恩 en1，阴 in1，温 uen1，蕴 iun1，翁 on1，甬 ion3，压 aq7，约 iaq7，挖 uaq7，屋 oq7，一 iq7，郁 iuq7。
+衣 i1，乌 u1，鸳 iu1，矮 a3，亚 ia5，娃 ua1，袄 au3，哑 o3，要 iau5，蛙 uo1，爱 e5，晏 ae5，弯 uae1，优 ieu1，安 ei1，威 uei1，窝 ou1，欧 eu1，央 ian1，肮 aon1，汪 uaon1，碗 un3，恩 en1，阴 in1，温 uen1，蕴 iun1，翁 on1，甬 ion3，压 aq7，约 iaq7，挖 uaq7，屋 oq7，一 iq7，郁 iuq7。
 
 ### h
 
