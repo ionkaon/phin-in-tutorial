@@ -14,3 +14,5 @@
 - [吳語學堂](https://www.wugniu.com/)
 
 本教程的例字若无特殊说明均为宁波城区口音。宁波城区口音指原海曙，江东，江北三区所辖的宁波市中心城区的口音。其他地区的口音和宁波城区可能有一些区别，具体可以参照教程中 [地区差异](https://ionkaon.github.io/phin-in-tutorial/内部差异/地区差异.html) 一节。
+
+另有视频教程，[宁波方言语音基础](https://www.bilibili.com/video/BV1P3411J7qq)，也可配套观看。
