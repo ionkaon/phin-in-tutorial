@@ -1,6 +1,6 @@
 # 宁波话吴拼教程
 
-作者：[Electric Sheep（shinzoqchiuq）](https://github.com/shinzoqchiuq)
+作者：[Shin Zoqchiuq（shinzoqchiuq）](https://github.com/shinzoqchiuq)
 
 这是一个宁波话的吴语拼音教程，教读者使用吴语拼音来拼写宁波话。因为是文字教程，通过文字来描述语音总是有限制的，所以这个教程主要面向那些会说宁波话的读者。希望读者可以通过学习本教程，对宁波话的声母、韵母及声调有一个了解，为学习如何用正确的汉字书写宁波话打下基础。
 
